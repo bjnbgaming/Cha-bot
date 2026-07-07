@@ -1,0 +1,14 @@
+{
+  "name": "discord-charbot",
+  "version": "1.0.0",
+  "description": "D&D random character generator Discord bot (race/class/subclass/background)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dryrun": "node dryrun-test.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
